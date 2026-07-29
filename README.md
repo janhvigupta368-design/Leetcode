@@ -7,6 +7,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
@@ -24,6 +25,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 ## Enumeration
 |  |
 | ------- |
