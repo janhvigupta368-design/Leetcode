@@ -27,6 +27,7 @@ About the leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Enumeration
 |  |
@@ -44,6 +45,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
