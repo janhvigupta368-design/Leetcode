@@ -21,6 +21,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
@@ -103,4 +105,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
