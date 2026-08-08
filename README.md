@@ -10,6 +10,7 @@ About the leetcode questions
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -22,6 +23,7 @@ About the leetcode questions
 | ------- |
 | [0029-divide-two-integers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
