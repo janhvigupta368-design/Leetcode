@@ -10,6 +10,7 @@ About the leetcode questions
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
@@ -116,5 +117,6 @@ About the leetcode questions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
