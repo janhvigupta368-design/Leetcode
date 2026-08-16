@@ -13,6 +13,7 @@ About the leetcode questions
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
@@ -124,6 +125,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,4 +136,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
