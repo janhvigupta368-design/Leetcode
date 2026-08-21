@@ -26,6 +26,7 @@ About the leetcode questions
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/janhvigupta368-design/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -40,6 +41,7 @@ About the leetcode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +75,7 @@ About the leetcode questions
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/janhvigupta368-design/Leetcode/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/janhvigupta368-design/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -110,6 +114,7 @@ About the leetcode questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,4 +155,8 @@ About the leetcode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
