@@ -36,6 +36,7 @@ About the leetcode questions
 | [0029-divide-two-integers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/janhvigupta368-design/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
@@ -116,6 +117,7 @@ About the leetcode questions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/janhvigupta368-design/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
@@ -162,4 +164,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/janhvigupta368-design/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
