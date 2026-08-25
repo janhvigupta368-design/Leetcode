@@ -18,6 +18,7 @@ About the leetcode questions
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -120,6 +121,7 @@ About the leetcode questions
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/janhvigupta368-design/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
