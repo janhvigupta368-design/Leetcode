@@ -23,6 +23,7 @@ About the leetcode questions
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
@@ -42,6 +43,7 @@ About the leetcode questions
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
@@ -53,6 +55,7 @@ About the leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -79,6 +82,7 @@ About the leetcode questions
 | [0029-divide-two-integers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/janhvigupta368-design/Leetcode/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -123,6 +127,7 @@ About the leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -140,6 +145,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
