@@ -11,6 +11,7 @@ About the leetcode questions
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janhvigupta368-design/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/janhvigupta368-design/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
@@ -147,6 +148,7 @@ About the leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/janhvigupta368-design/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -172,6 +174,7 @@ About the leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/janhvigupta368-design/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
