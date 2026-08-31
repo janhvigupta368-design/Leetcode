@@ -18,6 +18,7 @@ About the leetcode questions
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +68,7 @@ About the leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
