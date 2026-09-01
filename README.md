@@ -35,6 +35,7 @@ About the leetcode questions
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/janhvigupta368-design/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -92,6 +93,7 @@ About the leetcode questions
 | [0461-hamming-distance](https://github.com/janhvigupta368-design/Leetcode/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/janhvigupta368-design/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -155,6 +157,7 @@ About the leetcode questions
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -182,6 +185,7 @@ About the leetcode questions
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0867-transpose-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -194,4 +198,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
