@@ -107,6 +107,7 @@ About the leetcode questions
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -173,6 +174,7 @@ About the leetcode questions
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
@@ -209,4 +211,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
