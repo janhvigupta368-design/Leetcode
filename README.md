@@ -14,6 +14,7 @@ About the leetcode questions
 | [0036-valid-sudoku](https://github.com/janhvigupta368-design/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
@@ -181,6 +183,7 @@ About the leetcode questions
 | ------- |
 | [0039-combination-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/janhvigupta368-design/Leetcode/tree/master/0078-subsets) |
 ## Recursion
 |  |
