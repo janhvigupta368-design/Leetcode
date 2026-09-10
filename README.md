@@ -38,6 +38,7 @@ About the leetcode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/janhvigupta368-design/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -121,6 +122,7 @@ About the leetcode questions
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ About the leetcode questions
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/janhvigupta368-design/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/janhvigupta368-design/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
