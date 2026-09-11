@@ -113,6 +113,7 @@ About the leetcode questions
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3019-number-of-changing-keys](https://github.com/janhvigupta368-design/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
