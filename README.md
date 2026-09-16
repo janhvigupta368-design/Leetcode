@@ -62,6 +62,7 @@ About the leetcode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -138,6 +139,7 @@ About the leetcode questions
 | ------- |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
@@ -164,6 +166,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Minimax
 |  |
 | ------- |
@@ -215,6 +218,7 @@ About the leetcode questions
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
