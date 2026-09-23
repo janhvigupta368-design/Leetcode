@@ -42,6 +42,7 @@ About the leetcode questions
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -68,6 +69,7 @@ About the leetcode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -199,6 +201,7 @@ About the leetcode questions
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -260,4 +263,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
