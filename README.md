@@ -43,6 +43,7 @@ About the leetcode questions
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -202,6 +203,7 @@ About the leetcode questions
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -267,4 +269,5 @@ About the leetcode questions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
