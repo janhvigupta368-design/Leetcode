@@ -64,6 +64,7 @@ About the leetcode questions
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/janhvigupta368-design/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/janhvigupta368-design/Leetcode/tree/master/0593-valid-square) |
@@ -108,6 +109,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/janhvigupta368-design/Leetcode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -212,6 +214,7 @@ About the leetcode questions
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/janhvigupta368-design/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
