@@ -66,6 +66,7 @@ About the leetcode questions
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/janhvigupta368-design/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/janhvigupta368-design/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/janhvigupta368-design/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@ About the leetcode questions
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/janhvigupta368-design/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/janhvigupta368-design/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/janhvigupta368-design/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
