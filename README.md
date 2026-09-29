@@ -38,6 +38,7 @@ About the leetcode questions
 | [0867-transpose-matrix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/janhvigupta368-design/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/janhvigupta368-design/Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/janhvigupta368-design/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/janhvigupta368-design/Leetcode/tree/master/1406-stone-game-iii) |
@@ -88,6 +89,7 @@ About the leetcode questions
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -255,6 +257,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,4 +284,24 @@ About the leetcode questions
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
