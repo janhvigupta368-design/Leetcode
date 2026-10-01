@@ -130,6 +130,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janhvigupta368-design/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -266,6 +267,7 @@ About the leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/janhvigupta368-design/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -285,6 +287,7 @@ About the leetcode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Heap (Priority Queue)
