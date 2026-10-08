@@ -101,6 +101,7 @@ About the leetcode questions
 | [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janhvigupta368-design/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Enumeration
@@ -242,6 +243,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -319,4 +322,8 @@ About the leetcode questions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
