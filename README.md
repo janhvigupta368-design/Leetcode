@@ -242,6 +242,7 @@ About the leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
@@ -325,5 +326,6 @@ About the leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
