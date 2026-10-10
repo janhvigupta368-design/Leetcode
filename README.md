@@ -96,6 +96,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/janhvigupta368-design/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -326,6 +327,7 @@ About the leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
