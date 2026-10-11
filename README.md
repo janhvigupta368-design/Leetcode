@@ -46,6 +46,7 @@ About the leetcode questions
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -109,6 +110,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
