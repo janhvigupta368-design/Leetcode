@@ -31,6 +31,7 @@ About the leetcode questions
 | [0219-contains-duplicate-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/janhvigupta368-design/Leetcode/tree/master/0724-find-pivot-index) |
@@ -201,6 +202,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/janhvigupta368-design/Leetcode/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Minimax
@@ -218,6 +220,7 @@ About the leetcode questions
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
