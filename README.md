@@ -48,6 +48,7 @@ About the leetcode questions
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -225,6 +226,7 @@ About the leetcode questions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/janhvigupta368-design/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvigupta368-design/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/janhvigupta368-design/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -295,6 +297,7 @@ About the leetcode questions
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Counting
 |  |
@@ -335,4 +338,8 @@ About the leetcode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
