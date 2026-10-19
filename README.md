@@ -341,6 +341,7 @@ About the leetcode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
