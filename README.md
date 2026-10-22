@@ -253,6 +253,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/janhvigupta368-design/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/janhvigupta368-design/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -341,6 +342,7 @@ About the leetcode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/janhvigupta368-design/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/janhvigupta368-design/Leetcode/tree/master/0328-odd-even-linked-list) |
