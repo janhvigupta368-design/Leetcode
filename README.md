@@ -141,6 +141,7 @@ About the leetcode questions
 | [0020-valid-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/janhvigupta368-design/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/janhvigupta368-design/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -221,6 +222,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/janhvigupta368-design/Leetcode/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/janhvigupta368-design/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/janhvigupta368-design/Leetcode/tree/master/0268-missing-number) |
