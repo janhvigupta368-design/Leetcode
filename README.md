@@ -68,6 +68,7 @@ About the leetcode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/janhvigupta368-design/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/janhvigupta368-design/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/janhvigupta368-design/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/janhvigupta368-design/Leetcode/tree/master/0066-plus-one) |
