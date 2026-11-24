@@ -56,6 +56,7 @@ About the leetcode questions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/janhvigupta368-design/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -92,6 +93,7 @@ About the leetcode questions
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/janhvigupta368-design/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/janhvigupta368-design/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -126,12 +128,14 @@ About the leetcode questions
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/janhvigupta368-design/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/janhvigupta368-design/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/janhvigupta368-design/Leetcode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janhvigupta368-design/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/janhvigupta368-design/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +186,7 @@ About the leetcode questions
 | [0219-contains-duplicate-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janhvigupta368-design/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/janhvigupta368-design/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
