@@ -68,6 +68,7 @@ About the leetcode questions
 | [3875-construct-uniform-parity-array-i](https://github.com/janhvigupta368-design/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/janhvigupta368-design/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/janhvigupta368-design/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ About the leetcode questions
 | [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/janhvigupta368-design/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/janhvigupta368-design/Leetcode/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +182,7 @@ About the leetcode questions
 | [0680-valid-palindrome-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/janhvigupta368-design/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/janhvigupta368-design/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -356,6 +359,7 @@ About the leetcode questions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/janhvigupta368-design/Leetcode/tree/master/0912-sort-an-array) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/janhvigupta368-design/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/janhvigupta368-design/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
